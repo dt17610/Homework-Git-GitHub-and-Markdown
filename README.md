@@ -30,7 +30,7 @@
 
 11.a table:
 
-| kind | Item   |
+| kind   |anminal|
 | ------ | ------ |
 | 1      | dog  |
 | 2      | cat   |
@@ -43,4 +43,5 @@
 
 15.horizontal rule:
 
+21190423戴贞涛
 ***
