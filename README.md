@@ -17,3 +17,20 @@
 <meta charset="utf-8">
 ```
 > 8.a block quote
+
+9.a bulleted list:
+* first
+* second
+* third
+
+10.a numbered list:
+- first
+- second
+- third
+
+11.a table:
+
+| kind | Item   |
+| ------ | ------ |
+| 1      | dog  |
+| 2      | cat   |
