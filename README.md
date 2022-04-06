@@ -34,3 +34,13 @@
 | ------ | ------ |
 | 1      | dog  |
 | 2      | cat   |
+
+12.**bolded text**
+
+13.*italicized text*
+
+14.~~strikethrough text~~
+
+15.horizontal rule:
+
+***
