@@ -14,7 +14,11 @@ an image that is located on the web (not a file in the directory). If you right-
 
 a code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes:
 ```
-<meta charset="utf-8">
+int main()
+{
+   cout << "Hello World"; // 输出 Hello World
+   return 0;
+}
 ```
 > a block quote
 
