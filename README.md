@@ -13,7 +13,7 @@ an image that is located on the web (not a file in the directory). If you right-
 ![Image of Yaktocat](https://img1.baidu.com/it/u=2024938331,635570908&fm=253&fmt=auto&app=138&f=JPG?w=640&h=421)
 
 a code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes:
-```
+```javascript
 int main()
 {
    cout << "Hello World"; // 输出 Hello World
